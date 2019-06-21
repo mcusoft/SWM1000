@@ -1,2 +1,23 @@
-# SWM1000
-The SWM1000 is a UWB module based on Decawave’s DW1000 IC and ST's STM32 Microcontroller.
+# SWM1000产品简介
+
+	SWM1000是一款超宽带（UWB，Ultra Wide Band）无线收发模块，广泛应用于无线测距、自动跟随和实时定位等场景。
+	SWM1000模块采用了Decawave公司的DW1000无线收发芯片，并内置了ST公司的STM32F051微处理器和高灵敏度UWB天线。
+	SWM1000模块供电即可使用（供电范围3.3V-4.2V），测量结果通过串口输出。无遮挡情况下的误差小于10厘米，有效工
+作距离大于50米，最远可达80米以上。
+
+![image](https://github.com/mcusoft/SWM1000/blob/master/Images/SWM1000模块.jpg)
+
+# 主要特征：
+	符合IEEE802.15.4-2011超宽带标准  
+	6种工作频率可选，中心频率从3.5 GHz 到 6.5 GHz.  
+	支持110 kbps,850 kbps, 6.8 Mbps三种不同的通讯速率  
+	可应用于TOA、AOA、TDOA等算法的实时定位系统（RTLS）  
+	支持高精度双向测距（Two Way Ranging）  
+	采用邮票孔封装，方便加工。  
+
+# 应用领域：
+	监狱、医院、银行、机场等高安全场所的人员实时定位系统  
+	用于贵重或危险物品管控的电子围栏系统  
+	人员和物品的出入管理  
+
+购买链接：https://shop231813457.taobao.com/
